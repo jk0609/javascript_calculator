@@ -98,6 +98,7 @@ $(document).ready(function(){
   })//equalBut
 
   $("#ceBut").click(function(){//CE button
+    console.log(firstOp, equalOn);
     if(firstOp===true){
       equalOn = false;
       opOn = false;
