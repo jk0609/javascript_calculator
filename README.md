@@ -17,9 +17,9 @@ None
 Separate front end and back end logic, refactor to include more jQuery. 
 
 ## Technologies Used
-HTML
-CSS
-Javascript/jQuery
+* HTML
+* CSS
+* Javascript/jQuery
 
 ### License
 
