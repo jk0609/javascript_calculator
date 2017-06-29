@@ -3,7 +3,7 @@
 #### By Jonathon Kang
 
 ## Description
-Javascript calculator with front end display. All displayed buttons are functional and work as a real calculator would. 
+Javascript calculator with front end display. All displayed buttons are functional and work as a real calculator would. Inputted values are stored as strings until time of calculation, when they are converted into numbers and displayed on the front-end. 
 
 ## Setup/Installation Requirements
 
