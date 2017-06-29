@@ -11,11 +11,12 @@ Javascript calculator with front end display. All displayed buttons are function
 * Open in web browser of choice
 
 ## Known Bugs
-
 None
 
-## Technologies Used
+## To Do
+Separate front end and back end logic, refactor to include more jQuery. 
 
+## Technologies Used
 HTML
 CSS
 Javascript/jQuery
